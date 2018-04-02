@@ -10,7 +10,7 @@ with open('README.md') as f:
 
 setuptools.setup(
     name='FreeIPA JSON',
-    version='0.1',
+    version='0.1.1',
     author='Andreas Calminder',
     author_email='andreas.calminder@nordnet.se',
     url='https://github.com/komand/python-freeipa-json',
