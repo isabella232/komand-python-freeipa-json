@@ -13,7 +13,7 @@ setuptools.setup(
     version='0.1',
     author='Andreas Calminder',
     author_email='andreas.calminder@nordnet.se',
-    url='https://github.com/nordnet/python-freeipa-json',
+    url='https://github.com/komand/python-freeipa-json',
     description='Lightweight FreeIPA library',
     long_description=readme,
     license='MIT',
